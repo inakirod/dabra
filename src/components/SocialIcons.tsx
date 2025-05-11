@@ -20,7 +20,7 @@ const SocialIcons = (props: Props) => {
         <a
           rel='noreferrer'
           target='_blank'
-          href='https://discord.com/invite/VsPbrK2hJk'
+          href='https://discord.com/invite/dabdao'
           className='shadow-sm duration-500 hover:scale-125 focus:scale-125'
           onClick={() => trackClick('discord', props.trackingContext)}
         >
