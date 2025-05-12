@@ -31,7 +31,7 @@ export default function PrivacyPolicy() {
           <Logo />
         </div>
       </div>
-      <CenteredContent className='px-5 pt-52 pb-6'>
+      <CenteredContent className='px-5 pb-6 pt-52'>
         <div className='mx-auto max-w-4xl space-y-8 text-white/80'>
           <p className='font-bold'>
             <span>Dabra Platform Privacy </span>
@@ -1706,7 +1706,7 @@ export default function PrivacyPolicy() {
           </p>
           <p>
             <span>
-              Dabra Today Ltd is the controller of the personal information we
+              Dabra Foundation is the controller of the personal information we
               process under this Privacy Notice.
             </span>
           </p>
@@ -1725,7 +1725,7 @@ export default function PrivacyPolicy() {
           </p>
           <div>
             <p>
-              <span>Dabra Today Ltd</span>
+              <span>Dabra Foundation</span>
             </p>
             <p>
               <span>Attn: Dabra Customer Support </span>

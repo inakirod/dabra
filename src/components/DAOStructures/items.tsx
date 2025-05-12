@@ -7,7 +7,7 @@ const ITEMS = [
     content:
       'A “multisig” is a shared wallet, typically with two or more members authorizing transactions.',
     cta: {
-      href: 'https://app.dabra.app/realms/new/multisig',
+      href: 'https://app.dabra.app/dabra/new/multisig',
       text: 'Create a Multisig Wallet',
     },
     daos: {

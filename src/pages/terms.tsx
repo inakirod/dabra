@@ -31,7 +31,7 @@ export default function Terms() {
           <Logo />
         </div>
       </div>
-      <CenteredContent className='px-5 pt-52 pb-6'>
+      <CenteredContent className='px-5 pb-6 pt-52'>
         <div className='mx-auto max-w-4xl space-y-8 text-white/80'>
           <div>
             <p className='text-center'>
@@ -49,14 +49,14 @@ export default function Terms() {
               <em>Site</em>
             </strong>
             &rdquo;). These terms and conditions create a contract between you
-            and Dabra Today Ltd (the &ldquo;
+            and Dabra Foundation (the &ldquo;
             <strong>
               <em>Agreement</em>
             </strong>
             &rdquo;).
           </p>
           <p>
-            The Site, made available by Dabra Today Ltd (the &ldquo;
+            The Site, made available by Dabra Foundation (the &ldquo;
             <strong>
               <em>Site Operator</em>
             </strong>
@@ -573,8 +573,8 @@ export default function Terms() {
               and determined by the interface by factors such as the differing
               levels of complexity, data size, and urgency. All fees, including
               but not limited to gas fees and anti-spam fees, as well as any
-              other costs associated with the use of accounts on Dabra, shall
-              be the sole responsibility of the user.
+              other costs associated with the use of accounts on Dabra, shall be
+              the sole responsibility of the user.
               <ol className='list-[lower-alpha] space-y-8 pl-4 pt-4'>
                 <li>
                   By using the interface you agree to pay all fees. The
@@ -596,8 +596,8 @@ export default function Terms() {
                 </li>
                 <li>
                   Gas fees, account rent and any other fee charged shall become
-                  the property of Dabra upon payment. You shall have no right
-                  to a refund or return of any prepaid fees under any
+                  the property of Dabra upon payment. You shall have no right to
+                  a refund or return of any prepaid fees under any
                   circumstances.{' '}
                 </li>
                 <li>
