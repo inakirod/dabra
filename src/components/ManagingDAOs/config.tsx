@@ -23,7 +23,7 @@ const CONFIG = [
           'hover:opacity-90',
           'hover:text-realms-theme-blue'
         )}
-        href='https://github.com/Mythic-Project/solana-program-library/tree/master/governance'
+        href='https://github.com/dabra-foundation/solana-program-library/tree/master/governance'
       >
         Learn More
       </a>

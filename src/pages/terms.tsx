@@ -191,7 +191,7 @@ export default function Terms() {
                   SPL Governance Protocol. The SPL Governance Protocol is
                   software source code licensed to the public under the Apache
                   2.0 license. The SPL Governance Protocol is made available at
-                  https://github.com/Mythic-Project/solana-program-library/tree/master/governance
+                  https://github.com/dabra-foundation/solana-program-library/tree/master/governance
                   and offers the ability for a user to create and manage
                   decentralized autonomous organizations (each, a &ldquo;
                   <strong>
@@ -218,12 +218,12 @@ export default function Terms() {
                   2.0 license, which is incorporated herein by reference. The
                   Dabra Open Source Code is made available at{' '}
                   <a
-                    href='https://github.com/Mythic-Project/governance-ui'
+                    href='https://github.com/dabra-foundation/dabradao'
                     target='_blank'
                     rel='noopener noreferrer'
                   >
                     <span className='text-blue-400 underline'>
-                      https://github.com/Mythic-Project/governance-ui
+                      https://github.com/dabra-foundation/dabradao
                     </span>
                   </a>{' '}
                   and offers the ability for a user to interact with the SPL

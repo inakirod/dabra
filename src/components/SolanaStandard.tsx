@@ -31,7 +31,7 @@ export default function SolanaStandard() {
           'lg:py-20'
         )}
       >
-        <div className='absolute top-0 left-0 bottom-0 right-0 -z-10'>
+        <div className='absolute bottom-0 left-0 right-0 top-0 -z-10'>
           <Image
             alt='background'
             src={
@@ -66,7 +66,7 @@ export default function SolanaStandard() {
         </div>
         <div className='flex'>
           <Anchor.Secondary
-            href='https://github.com/Mythic-Project/solana-program-library/tree/master/governance'
+            href='https://github.com/dabra-foundation/solana-program-library/tree/master/governance'
             onClick={() => trackClick('about_spl', 'index_solana_standard')}
           >
             <Icon

@@ -38,7 +38,7 @@ const SocialIcons = (props: Props) => {
         <a
           rel='noreferrer'
           target='_blank'
-          href='https://github.com/Dabra/dabradao'
+          href='https://github.com/dabra-foundation/dabradao'
           className='shadow-sm duration-500 hover:scale-125 focus:scale-125'
           onClick={() => trackClick('github', props.trackingContext)}
         >
