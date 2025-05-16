@@ -32,7 +32,7 @@ const ITEMS = [
     content:
       'NFT Community DAOs leverage NFTs as membership,  giving NFT holders voting power to make decisions.',
     cta: {
-      href: 'https://dao.dabra.app/realms/new/nft',
+      href: 'https://dao.dabra.app/dabra/new/nft',
       text: 'Create NFT Community DAO',
     },
     daos: {
@@ -57,7 +57,7 @@ const ITEMS = [
     content:
       'DAO members receive a community token to denote their membership and allow them to vote on proposals.',
     cta: {
-      href: 'https://dao.dabra.app/realms/new/community-token',
+      href: 'https://dao.dabra.app/dabra/new/community-token',
       text: 'Create a Community Token DAO',
     },
     daos: {
