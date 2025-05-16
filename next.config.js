@@ -56,13 +56,13 @@ module.exports = {
   async redirects() {
     return [
       {
-        source: '/realms/:page*',
-        destination: 'https://app.dabra.app/realms/:page*',
+        source: '/dabra/:page*',
+        destination: 'https://dao.dabra.app/dabra/:page*',
         permanent: true,
       },
       {
         source: '/dao/:page*',
-        destination: 'https://app.dabra.app/dao/:page*',
+        destination: 'https://dao.dabra.app/dao/:page*',
         permanent: true,
       },
     ];

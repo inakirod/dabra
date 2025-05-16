@@ -122,7 +122,7 @@ export default function NavBar() {
             )}
           >
             <SmallGradientAnchor
-              href='https://app.dabra.app'
+              href='https://dao.dabra.app'
               onClick={() => trackClick('enter_app', 'nav_bar')}
             >
               Enter App{' '}

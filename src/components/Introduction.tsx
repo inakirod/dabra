@@ -25,13 +25,13 @@ export default function Introduction() {
         />
       </div>
       <CenteredContent className='px-5'>
-        <article className='pt-[100px] pb-[50px] sm:pt-[200px] sm:pb-[155px]'>
+        <article className='pb-[50px] pt-[100px] sm:pb-[155px] sm:pt-[200px]'>
           <div className='max-w-screen-lg'>
             <Header as='h1'>
               Tooling to help your community thrive on Solana
             </Header>
           </div>
-          <div className='mt-4 mb-11 w-full max-w-[679px] md:mb-14 md:text-left xl:w-2/3'>
+          <div className='mb-11 mt-4 w-full max-w-[679px] md:mb-14 md:text-left xl:w-2/3'>
             <Text as='p1' withOpacity>
               DAO creation, voting, and treasury management, all in one fully
               on-chain product. Whether managing a multisig or a billion dollar
@@ -42,7 +42,7 @@ export default function Introduction() {
           <div className='flex flex-col items-center gap-4 sm:flex-row'>
             <Anchor.Gradient
               className='w-full justify-center sm:w-auto'
-              href='https://app.dabra.app'
+              href='https://dao.dabra.app'
               onClick={() => trackClick('enter_app', 'index_introduction')}
             >
               Enter App{' '}
